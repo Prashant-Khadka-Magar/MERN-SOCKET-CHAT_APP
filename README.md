@@ -239,9 +239,6 @@ This project is licensed under the ISC License.
 - MongoDB for database services
 - All the amazing open-source libraries that made this project possible
 
-## 📱 Screenshots
-
-*Add screenshots of your chat application here to showcase the UI*
 
 ## 🚀 Deployment
 
